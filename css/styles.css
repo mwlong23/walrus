@@ -1,0 +1,10 @@
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.sidebar2{
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
